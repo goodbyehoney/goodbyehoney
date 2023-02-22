@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Yevhen
 
 ## I'm a Junior FrontEnd Developer, and 
-- 💪 I like to write code
-- 🎉 I love to stargazing and astronomy
-- 🥅 I am constantly learning new things
+- 👾 I like to write code (at least - I make an effort)
+- 🚀 I love to stargazing and astronomy
+- 📚 I'm constantly learning new things
 
 <br />
 
